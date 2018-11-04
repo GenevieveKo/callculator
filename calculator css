@@ -1,0 +1,44 @@
+body {
+    background: #0ff;
+    width:300px;
+    height:50px;
+    background:gray;
+    margin:50px auto;
+}
+
+#corners {
+    border-radius: 25px;
+    padding: 20px; 
+    width: 200px;
+    height: 50px; 
+}
+
+#background {
+    width:300px;
+    height:50px;
+    background:gray;
+    margin:50px auto;
+    position: static;
+}
+input {
+    background-color: lightblue;
+    border-radius: 25px;
+    border: 2px solid #000;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    height:75px;
+    width:75px;
+    font-size:50px;
+}
+
+tr {
+    height:50px;
+    width:50px;
+}
+#display {
+    height:100px;
+    width:325px;
+    color:white;
+    font-family: "Times New Roman", Times, serif;
+    font-size:50px;
+}
